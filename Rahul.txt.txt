@@ -16,5 +16,14 @@ we
 Teaching Renuka
 
 she asked me dount
+<<<<<<< HEAD
 
 im in master
+=======
+we
+qwe
+qwe
+qwe
+qwe
+qw
+>>>>>>> f1
